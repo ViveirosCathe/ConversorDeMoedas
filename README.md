@@ -56,8 +56,18 @@ Ideal para quem está estudando backend e quer entender integração via HTTP, m
   Java Record que representa o modelo dos dados retornados pela API.
 
 ---
+## Demonstração do funcionamento
+
+[Demonstração no terminal]
+
+
+
+
+
+https://github.com/user-attachments/assets/c8745b5e-72db-4198-bc66-c6de91f2d952
 
 ## Como usar
+
 
 1. Clone o repositório:
    ```bash
