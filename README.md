@@ -61,4 +61,4 @@ Ideal para quem está estudando backend e quer entender integração via HTTP, m
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor-de-moedas.git
+   git clone https://github.com/ViveirosCathe/ConversorDeMoedas.git
