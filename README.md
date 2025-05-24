@@ -1,4 +1,4 @@
-# Conversoe de Moedas
+# Conversor de Moedas
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg)
 ![Gson](https://img.shields.io/badge/Gson-2.8.9-green.svg)
@@ -61,4 +61,4 @@ Ideal para quem está estudando backend e quer entender integração via HTTP, m
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversoe-de-moedas.git
+   git clone https://github.com/seu-usuario/conversor-de-moedas.git
