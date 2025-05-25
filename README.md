@@ -71,4 +71,4 @@ https://github.com/user-attachments/assets/c8745b5e-72db-4198-bc66-c6de91f2d952
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ViveirosCathe/ConversorDeMoedas.git
+    https://github.com/ViveirosCathe/ConversorDeMoedas.git
